@@ -1,5 +1,5 @@
 # An-ASSB-electrochemical-model
-A 3D layer electrochemical model of all-solid-state battery made by Weizhuo Li, Qing Du, and Kui Jiao
+A 3D layer electrochemical model of all-solid-state battery made by Weizhuo Li, Qing Du, and Kui Jiao, Tianjin University, China
 
 The model computational domain includes negative current collector, negative electrode, solid electrolyte, positive electrode, and positive current collector. 
 
